@@ -1,5 +1,5 @@
 Student name: Berend Kuiper
 Student number: 738495
 Student class: HAINFVT1-A
-Github Repository: 
+Github Repository: https://github.com/Sealhond/Web-markup-Assessment-738495
 Github Pages URL: 
