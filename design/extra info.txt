@@ -1,0 +1,11 @@
+Ik heb de footer niet helemaal overgenomen, aangezien ik die niet zelf ontworpen had.
+
+Ik heb een paar afwijkingen van het design gemaakt voor de grading reference, vooral op de contact page.
+
+De imdb linkjes leiden allemaal naar de imdb homepage, was erg veel werk om alles aan hun eigen page te linken.
+
+Ik heb de volgende niet gedaan omdat ik geen table had:
+Uses pseudo-class nth-child to color the even horizontal lines the background color #CFF and odd lines #FFF from a table.
+maar ik heb wel pseudo-class nth-child gebruikt om even en oneven lines bold te maken
+
+Verder ben ik niet helemaal tevreden met hoe ik de content pages heb gecode, ik wist niet hoe ik de hoekjes moest oplossen :D.

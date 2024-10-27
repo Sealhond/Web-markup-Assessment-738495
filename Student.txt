@@ -1,0 +1,5 @@
+Student name: Berend Kuiper
+Student number: 738495
+Student class: HAINFVT1-A
+Github Repository: 
+Github Pages URL: 
